@@ -1,4 +1,7 @@
 /* Add screen styles below */
-a.active {
+body{
+    background-color: darksalmon;
+    a.active {
     font-weight: bold;
+    }
 }
