@@ -1,4 +1,8 @@
 /* Add screen styles below */
+main{
+    margin: 15000, 15000;
+    width:80%;
+} 
 body{
     background-color: darksalmon;
     font-family: Helvenica, sans-serif, Times, serif;
@@ -7,10 +11,7 @@ body{
     a.active {
     font-weight: bold;
     }
-main{
-    margin: 1500, 1500;
-    width:80%;
-}
+
 img {
     width:100;
 }
