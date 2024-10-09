@@ -7,6 +7,10 @@ body{
     a.active {
     font-weight: bold;
     }
+main{
+    margin: 0, 0;
+    width:80%;
+}
 img {
     width:100;
 }
