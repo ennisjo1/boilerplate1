@@ -1,16 +1,13 @@
 /* Add screen styles below */
 main{
-    margin: 150, 150;
+    margin: 10000, 10000;
     width:80%;
 } 
 body{
     background-color: darksalmon;
     font-family: Helvenica, sans-serif, Times, serif;
-    border-top: 15px solid#424242:
-    margin 0;
-    a.active {
-    font-weight: bold;
-    }
+    border-top: 15px solid#424242;
+    margin: 0, auto;
 
 img {
     width:100;
