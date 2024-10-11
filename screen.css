@@ -10,11 +10,10 @@ body{
     margin: 0 auto;
 }
 .detail {
+    display: flex;
 
 }
-.details2 {
 
-}
 img {
     width:100%;
 }
