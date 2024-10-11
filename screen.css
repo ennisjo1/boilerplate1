@@ -1,7 +1,7 @@
 /* Add screen styles below */
 main{
-    margin: 10000, 10000;
-    width:80%;
+    margin: 0, auto;
+    width:800px;
 } 
 body{
     background-color: darksalmon;
