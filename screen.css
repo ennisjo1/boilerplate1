@@ -11,6 +11,11 @@ body{
 }
 .details { display:flex;
 }
+.details section {
+   flex-grow: 1; 
+   flex-basis: 0;
+   background: #cccc;
+}
 
 img {
     width:100%;
