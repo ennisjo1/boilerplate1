@@ -9,9 +9,7 @@ body{
     border-top: 15px solid brown;
     margin: 0 auto;
 }
-.details {
-    display: flex;
-
+.details { display:flex;
 }
 
 img {
