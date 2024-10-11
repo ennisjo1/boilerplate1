@@ -1,13 +1,14 @@
 /* Add screen styles below */
 main{
     margin: 0, auto;
-    width:800px;
+    width: 800px;
 } 
 body{
     background-color: darksalmon;
     font-family: Helvenica, sans-serif, Times, serif;
     border-top: 15px solid brown;
-    margin: 0, auto;
+    margin: 0 auto;
+}
 .detail {
 
 }
@@ -15,6 +16,5 @@ body{
 
 }
 img {
-    width:100;
-}
+    width:100%;
 }
