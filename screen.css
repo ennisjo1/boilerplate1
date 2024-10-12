@@ -1,8 +1,7 @@
 /* Add screen styles below */
 main{
-    margin: 0, auto;
-    width: 800px;
-} 
+    margin: 0 auto
+}
 body{
     background-color: darksalmon;
     font-family: Helvenica, sans-serif, Times, serif;
