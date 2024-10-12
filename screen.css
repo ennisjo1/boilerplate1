@@ -17,7 +17,6 @@ body{
    flex-grow: 1; 
    flex-basis: 0;
    background: #cccc;
-   padding: 25px;
    border-radius: 20px;
    margin-top: 25px;
 }
@@ -43,11 +42,16 @@ p{
 .details section.with-code{
     padding:0;
 }
-div.code-copy{
-    padding: 25px;
-}
 div.code-html{
     padding:25px:
     background: #424242;
-    color: fff;
+    color: #fff;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20;
+}
+.details section p{
+    margin:20px;
+}
+.details section h2{
+    margin:20px;
 }
