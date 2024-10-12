@@ -47,7 +47,7 @@ div.code-html{
     background: #424242;
     color: #fff;
     border-bottom-right-radius: 20px;
-    border-bottom-left-radius: 20;
+    border-bottom-left-radius: 20px;
 }
 .details section p{
     margin:20px;
