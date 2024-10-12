@@ -5,8 +5,9 @@ main{
 body{
     background-color: #fff;
     font-family: Helvenica, sans-serif, Times, serif;
-    border-top: 15px solid #424242;
+    border-top: 15px solid hsl(0, 0%, 26%);
     margin: 0 auto;
+    color: #424242
 }
 .details { 
     display:flex;
@@ -16,12 +17,21 @@ body{
    flex-grow: 1; 
    flex-basis: 0;
    background: #cccc;
-   padding: 20px;
+   padding: 25px;
    border-radius: 20px;
+   margin-top: 25px;
 }
 
 img {
     width:100%;
+}
+h1 {
+    background-image: url(Image/Logo.png);
+    background-repeat: no-repeat;
+    font-size: 3em;
+    background-size: 40px;
+    padding-left: 50px;
+    background-position: center left;
 }
 h2{
     margin: 0 0 10px 0;
@@ -29,4 +39,15 @@ h2{
 p{
     margin: 0;
     line-height: 1.4em;
+}
+.details section.with-code{
+    padding:0;
+}
+div.code-copy{
+    padding: 25px;
+}
+div.code-html{
+    padding:25px:
+    background: #424242;
+    color: fff;
 }
